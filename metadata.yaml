@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26754
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sangster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24819#Hesperusand-Other-Poems-and-Lyrics
 gutenberg_issued: '2008-03-13'
 gutenberg_type: Text
 identifiers:
