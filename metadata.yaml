@@ -1,0 +1,29 @@
+_repo: Hesperusand-Other-Poems-and-Lyrics_24819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sangster, Charles
+    birthdate: 1822
+    deathdate: 1893
+    gutenberg_agent_id: '26754'
+    url: http://www.gutenberg.org/2009/agents/26754
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sangster
+description: ''
+gutenberg_issued: '2008-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian poetry'
+title: 'Hesperus
+
+  and Other Poems and Lyrics'
+url: http://www.gutenberg.org/ebooks/24819
